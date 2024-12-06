@@ -7,9 +7,9 @@ The game reset in 1 second
 ![Screenshot 2024-12-06 122336](https://github.com/user-attachments/assets/607a514e-67a2-4070-94a9-484e9ede1bfb)
 
 
-2.The X 
+2.The X wins 
 ![Screenshot 2024-12-06 122336](https://github.com/user-attachments/assets/19e39f09-f193-432a-93ae-c0162eeeb2d4)
-wins 
+
 
 
 3.The O wims
