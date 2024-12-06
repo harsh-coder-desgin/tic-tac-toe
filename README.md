@@ -8,7 +8,8 @@ The game reset in 1 second
 
 
 2.The X wins 
-![Screenshot 2024-12-06 122336](https://github.com/user-attachments/assets/19e39f09-f193-432a-93ae-c0162eeeb2d4)
+![Screenshot 2024-12-06 122217](https://github.com/user-attachments/assets/b432a507-5a29-4151-9dc5-287f3f58b371)
+
 
 
 
